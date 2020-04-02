@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-dark-theme-blue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dark theme for Sanity Studio",
   "main": "index.js",
   "scripts": {
